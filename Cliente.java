@@ -15,6 +15,10 @@ public class Cliente extends Persona {
     private Vendedor vendedorAsignado;
     private int contadorPedidos;
     private Cliente cliente;
+
+     System.out.println("(Si desea ver los modelos disponibles, valla al apartado de bolsas)");
+
+    
     
     
 
